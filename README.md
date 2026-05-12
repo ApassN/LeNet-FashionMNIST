@@ -6,10 +6,11 @@ This project implements a LeNet-based convolutional neural network for FashionMN
 
 ```text
 LeNet/
-©À©¤©¤ model.py
-©À©¤©¤ train.py
-©À©¤©¤ test.py
-©À©¤©¤ requirements.txt
-©À©¤©¤ README.md
-©À©¤©¤ checkpoints/
-©¸©¤©¤ outputs/
+|-- model.py
+|-- train.py
+|-- test.py
+|-- plot.py
+|-- requirements.txt
+|-- README.md
+|-- outputs/
+|   `-- training_curve.png
